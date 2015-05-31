@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_text_input_layout"
+        android:icon="@drawable/circle"
+        android:title="@string/title_text_input_layout"/>
+
+    <item
+        android:id="@+id/action_fab_and_snackbar"
+        android:icon="@drawable/plus"
+        android:title="@string/title_fab_and_snackbar"/>
+
+
+    <item
+        android:id="@+id/action_tab_layout"
+        android:icon="@drawable/plus"
+        android:title="@string/title_tablayout"/>
+    <item
+        android:id="@+id/action_tab_layout_with_viewpager"
+        android:icon="@drawable/plus"
+        android:title="@string/title_tablayout_with_viewpager"/>
+    <item
+        android:id="@+id/action_coordinator_layout"
+        android:icon="@drawable/plus"
+        android:title="@string/title_coordinator_layout"/>
+    <item
+        android:id="@+id/action_app_bar_layout"
+        android:icon="@drawable/plus"
+        android:title="@string/title_app_bar_layout"/>
+    <item
+        android:id="@+id/action_collapsing_toolbar_layout"
+        android:icon="@drawable/plus"
+        android:title="@string/title_collapsing_toolbar"/>
+
+</menu>
